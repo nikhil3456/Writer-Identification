@@ -7,10 +7,10 @@ Please cite: Christlein, V.; Bernecker, D.; Honig, F.; Angelopoulou, E., "Writer
 
 - Python 3
 - Python libraries:
-  -- numpy
-  -- sklearn
-  -- scipy
-  -- pickle
+  - numpy
+  - sklearn
+  - scipy
+  - pickle
 
 ## Dataset: http://users.iit.demokritos.gr/~louloud/ICDAR2013WriterIdentificationComp/resources.html
 - For training: icdar2013_benchmarking_dataset
