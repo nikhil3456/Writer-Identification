@@ -12,7 +12,7 @@ Please cite: Christlein, V.; Bernecker, D.; Honig, F.; Angelopoulou, E., "Writer
   -- scipy
   -- pickle
 
-# Dataset: http://users.iit.demokritos.gr/~louloud/ICDAR2013WriterIdentificationComp/resources.html
+## Dataset: http://users.iit.demokritos.gr/~louloud/ICDAR2013WriterIdentificationComp/resources.html
 - For training: icdar2013_benchmarking_dataset
 - For testing: experimental_dataset_2013
 
